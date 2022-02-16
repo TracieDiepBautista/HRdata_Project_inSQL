@@ -1,4 +1,6 @@
-### PROJECT BACKGROUND: 
+
+
+# PROJECT BACKGROUND:
 
 As a new hire Data Engineer, my first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
 
@@ -8,7 +10,10 @@ In this assignment, I need to design the tables to hold data in the 6 CSVs, impo
 
 3. Data Analysis
 
-### SOURCES & TOOLS USED: 
+
+## SOURCES & TOOLS:
+
+in order to finish the analysis, below are tools and resources used: 
 
 i) [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com)
 
@@ -19,3 +24,12 @@ iii) JupiterNotebook
 iv) DB Browser for SQLite
 
 v) SQLAlchemy
+
+
+## Authors
+
+Tracie Diep Bautista (Tracie B.) 
+
+tracynguyen.bautista@gmail.com
+
+linkedin: 
