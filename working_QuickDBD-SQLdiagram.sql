@@ -81,6 +81,16 @@ from employees
 group by last_name
 order by "count_last_names" desc;
 
+-- Bonus: pre_works
+
+select e.title_id, t.title, s.salary
+from employees as e
+inner join titles as t
+on e.title_id = t.title_id
+left join salaries as s
+on s.emp_no = e.emp_no;
+
+
 -------- job completed, move to bonus in jupyternote ----------
 
 
