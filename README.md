@@ -62,9 +62,10 @@ The average salary group by job titles in the Company;
 In overall, this Company has a rather fair payroll range to its employees. It would be great if its benefits and allowances come in good package. 
 
 
-## Authors
+## Author:
 
 Tracie Diep Bautista (Tracie B.) 
+Data Analyst
 
 tracynguyen.bautista@gmail.com
 
