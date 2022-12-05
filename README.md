@@ -53,11 +53,11 @@ The average salary group by job titles in the Company;
 ![Histogram_chart](https://user-images.githubusercontent.com/93897775/154775282-ad14937b-92d0-4b6d-a01c-1260164f2811.png)
 
 
-- the most common salary range is 40k which is belong to more than 40 thousands staff in the company; 
+- the most common salary range was 40k, allocated to more than 40K staff across the company. 
 
-- the next range is from 50K to 70K that's falling into nearly 40 thousands staff. 
+- the next range was from 50K to 70K, falling into nearly 40 thousands staff. 
 
-- the less frequency of salary range is from 110K that just rewarding to less than 1 thousand people in the Company. 
+- the less frequency of salary range was from 110K that just rewarding to less than 1 thousand people in the Company. 
 
 In overall, this Company has a rather fair payroll range to its employees. It would be great if its benefits and allowances come in good package. 
 
