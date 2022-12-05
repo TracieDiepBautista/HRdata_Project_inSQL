@@ -8,7 +8,7 @@ In this assignment, I need to design the tables to hold data in the 6 CSVs, impo
 
 1. Data Engineering | Data Modeling
 
-3. Data Analysis
+3. Answer some statistical questions about payroll from Stakeholders. 
 
 
 ## THE OUTPUT STRUCTURE:
@@ -38,7 +38,7 @@ iii) SQLAlchemy
 iv) DB Browser for SQLite
 
 
-v) Python | Matplotlibs 
+v) Python | Matplotlibs | Pandas | Jupyter Notebook. 
 
 
 ## Some Findings in salary ranges
